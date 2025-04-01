@@ -1,3 +1,3 @@
 # QRCODE GENERATOR
 
-A qrcode generator writen in python.
+A qrcode tool writen in python.
